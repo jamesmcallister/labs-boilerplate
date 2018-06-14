@@ -1,0 +1,25 @@
+{
+  "name": "start-point",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:w": "npm run test -- --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamesmcallister/start-point.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamesmcallister/start-point/issues"
+  },
+  "homepage": "https://github.com/jamesmcallister/start-point#readme",
+  "dependencies": {
+    "@types/jest": "^23.1.0",
+    "jest": "^23.1.0"
+  }
+}

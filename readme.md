@@ -2,7 +2,7 @@
 
 ## Boilerplate
 
-##Let's get some better practices for started a simple exercise.
+## Let's get some better practices for started a simple exercise.
 
 So here we have setup jest for testing our js code.
 

@@ -1,0 +1,9 @@
+body {
+  background-color: blanchedalmond;
+}
+.header__title {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.header__title-hover:hover {
+  background-color: tomato;
+}
